@@ -1,0 +1,7 @@
+CREATE TABLE planet (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    weather VARCHAR(255) NOT NULL,
+    land VARCHAR(255) NOT NULL,
+    views_on_movies INT NOT NULL
+);
