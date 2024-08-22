@@ -1,4 +1,4 @@
-package com.studying_javinha.studies;
+package com.studying_javinha.studies.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
