@@ -14,19 +14,21 @@ Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver
 
 A API deve ser REST
 Para cada planeta, os seguintes dados devem ser obtidos do banco de dados da aplicação, sendo inserido manualmente:
-Nome
-Clima
-Terreno
+1. Nome
+2. Clima
+3. Terreno
+   
 Para cada planeta também devemos ter a quantidade de aparições em filmes, que podem ser obtidas pela API pública do Star Wars: https://swapi.co/.
-Funcionalidades desejadas:
 
-Adicionar um planeta (com nome, clima e terreno)
-Listar planetas
-Buscar por nome
-Buscar por ID
-Remover planeta
-Linguagens que usamos: Kotlin, Scala, Java
-Bancos que usamos: PostgreSQL-11 with JSONB
+#### Funcionalidades desejadas:
+
+- [ ] Adicionar um planeta (com nome, clima e terreno)
+- [x] Listar planetas
+- [x] Buscar por nome
+- [x] Buscar por ID
+- [x] Remover planeta
+- [x] Linguagens que usamos: Kotlin, Scala, Java
+- [ ] Testes unitários
 
 -----
 
